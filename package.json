@@ -1,6 +1,6 @@
 {
   "name": "@szymekskkj/react-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Smaller Raect Router and easier to use while keeping main functionality",
   "main": "index.js",
   "scripts": {

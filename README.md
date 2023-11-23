@@ -5,7 +5,7 @@ Small React component which allows to dynamic change pages
 ## Instaling
 
 ```npm
-  npm i react-router
+  npm i @szymekskkj/react-router
 ```
 
 ## Usage
