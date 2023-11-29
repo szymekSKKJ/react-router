@@ -52,3 +52,11 @@ Small React component which allows to dynamic change pages
 ```
 
 And that's it
+
+### Exported functions
+
+#### getCurrentRoute()
+
+Return current path of URL
+
+
